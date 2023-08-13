@@ -1,0 +1,14 @@
+/Users/rashadprym/Projects/hello/pharmacy/bin/Debug/netcoreapp3.1/pharmacy
+/Users/rashadprym/Projects/hello/pharmacy/bin/Debug/netcoreapp3.1/pharmacy.deps.json
+/Users/rashadprym/Projects/hello/pharmacy/bin/Debug/netcoreapp3.1/pharmacy.runtimeconfig.json
+/Users/rashadprym/Projects/hello/pharmacy/bin/Debug/netcoreapp3.1/pharmacy.runtimeconfig.dev.json
+/Users/rashadprym/Projects/hello/pharmacy/bin/Debug/netcoreapp3.1/pharmacy.dll
+/Users/rashadprym/Projects/hello/pharmacy/bin/Debug/netcoreapp3.1/pharmacy.pdb
+/Users/rashadprym/Projects/hello/pharmacy/obj/Debug/netcoreapp3.1/pharmacy.csproj.AssemblyReference.cache
+/Users/rashadprym/Projects/hello/pharmacy/obj/Debug/netcoreapp3.1/pharmacy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rashadprym/Projects/hello/pharmacy/obj/Debug/netcoreapp3.1/pharmacy.AssemblyInfoInputs.cache
+/Users/rashadprym/Projects/hello/pharmacy/obj/Debug/netcoreapp3.1/pharmacy.AssemblyInfo.cs
+/Users/rashadprym/Projects/hello/pharmacy/obj/Debug/netcoreapp3.1/pharmacy.csproj.CoreCompileInputs.cache
+/Users/rashadprym/Projects/hello/pharmacy/obj/Debug/netcoreapp3.1/pharmacy.dll
+/Users/rashadprym/Projects/hello/pharmacy/obj/Debug/netcoreapp3.1/pharmacy.pdb
+/Users/rashadprym/Projects/hello/pharmacy/obj/Debug/netcoreapp3.1/pharmacy.genruntimeconfig.cache

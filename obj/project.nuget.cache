@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+sVd9KdqACjWnOZ+KBgsRY8DL7WHs2XbCTCkc/r2+EWncPwKCXbI58rrVdZQ9m+MN2bl2mAB3f6VkQWV86uaXw==",
+  "success": true,
+  "projectFilePath": "/Users/rashadprym/Projects/hello/pharmacy/pharmacy.csproj",
+  "expectedPackageFiles": [
+    "/Users/rashadprym/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/rashadprym/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/rashadprym/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
